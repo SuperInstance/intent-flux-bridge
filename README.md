@@ -1,12 +1,12 @@
 # intent-flux-bridge
 
-Experiment: maps natural-language GPU intent to Flux bytecode. Tests the pincher→flux-core synergy where 'LLM as compiler' generates portable bytecode from intent.
+Experiment: maps natural-language GPU intent to Flux bytecode. Tests the pincher→flux-core integration where 'LLM as compiler' generates portable bytecode from intent.
 
 ## Why This Matters
 
 # intent-flux-bridge
 Maps natural-language GPU computation intent to Flux bytecode.
-Tests the pincher→flux-core synergy: the LLM-compiler generates
+Tests the pincher→flux-core integration: the LLM-compiler generates
 portable bytecode from "what I want" rather than "how to do it".
 
 ## The Five-Layer Stack
